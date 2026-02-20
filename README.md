@@ -19,7 +19,7 @@ Projekt je zaměřen na výzkum očekávání lidí při prodeji nemovitosti a s
 ## 🌐 Live verze
 
 GitHub Pages:  
-`https://USERNAME.github.io/REPO/`
+`https://github.com/evseevfedor/survey-landing.git`
 
 ---
 
